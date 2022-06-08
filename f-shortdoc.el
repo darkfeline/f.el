@@ -1,3 +1,4 @@
+;; -*- no-byte-compile: t; -*-
 ;;; f-shortdoc.el --- Shortdoc for f.el -*- lexical-binding: t -*-
 
 ;; Author: Lucien Cartier-Tilet <lucien@phundrak.com>
